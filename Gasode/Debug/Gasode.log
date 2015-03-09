@@ -1,0 +1,47 @@
+﻿Build started 3/8/2015 7:32:23 PM.
+     1>Project "C:\Users\Technologist SP\Dropbox\ResumeWebsitePage\Demo\Gasode\Gasode.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dsutil.cpp dxaudio.cpp dxgraphics.cpp dxutil.cpp Enemy.cpp game.cpp GameClock.cpp Gameloop.cpp Level.cpp Menus.cpp Player.cpp Powerup.cpp RenderMachine.cpp SpecSound.cpp Unit.cpp Weapon.cpp winmain.cpp World.cpp
+         World.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\rendermachine.h(8): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         winmain.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\winmain.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         Weapon.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\weapon.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         Unit.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\unit.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         SpecSound.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\specsound.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         RenderMachine.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\rendermachine.h(8): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Powerup.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\rendermachine.h(8): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Player.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\player.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         Menus.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\menus.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         Level.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\level.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         Gameloop.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\gameloop.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         GameClock.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\rendermachine.h(8): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         game.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\game.h(10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Enemy.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\enemy.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         dxutil.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\dxutil.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         dxgraphics.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\dxgraphics.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.pdb'
+         dxaudio.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\dxaudio.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.idb'
+         dsutil.cpp
+     1>c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\dsutil.cpp : fatal error C1033: cannot open program database 'c:\users\technologist sp\dropbox\resumewebsitepage\demo\gasode\debug\vc110.idb'
+         Generating Code...
+     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+     1>Done Building Project "C:\Users\Technologist SP\Dropbox\ResumeWebsitePage\Demo\Gasode\Gasode.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:22.92

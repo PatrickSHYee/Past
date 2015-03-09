@@ -1,0 +1,5 @@
+d3d9.lib
+d3dx9.lib
+sdl.lib
+sdlmain.lib
+sdl_image.lib

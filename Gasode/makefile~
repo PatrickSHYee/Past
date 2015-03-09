@@ -1,0 +1,6 @@
+GasodeEx: winmain.o
+	g++ winmain.o Gameloop.o `sdl-config --libs` -o GasodeEx
+winmain.o: winmain.cpp PoundDefs.h Gameloop.cpp
+	g++ -c winmain.cpp PoundDefs.h Gameloop.cpp `sdl-config --libs`
+Gameloop.o: Gameloop.cpp 
+	g++ -c Gameloop.cpp
