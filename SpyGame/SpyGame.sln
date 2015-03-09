@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpyGame", "SpyGame.vcxproj", "{5884243B-D2E5-4408-8168-37A6542A644F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5884243B-D2E5-4408-8168-37A6542A644F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5884243B-D2E5-4408-8168-37A6542A644F}.Debug|Win32.Build.0 = Debug|Win32
+		{5884243B-D2E5-4408-8168-37A6542A644F}.Release|Win32.ActiveCfg = Release|Win32
+		{5884243B-D2E5-4408-8168-37A6542A644F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
