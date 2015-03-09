@@ -1,0 +1,7 @@
+0 - Transparent
+1-10 - Moveable
+11-20 - NonMoveable
+30 - Water
+50 - Ice
+99 - Player
+100 - Exit
